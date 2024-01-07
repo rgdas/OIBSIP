@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-attachment: fixed;
+  background-size: cover;
+  }
+
+  .container {
+    width: 300px;
+    margin-top: 80px;
+    margin-left: 34rem;
+    padding: 20px;
+    border: 1px solid rgb(237, 231, 231);
+    border-radius: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  h1 {
+    color: aquamarine;
+  }
+
+  label {
+    color:rgb(0, 139, 37);
+    font-weight: bold;
+
+  }
+  
+  input, select, button {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgb(207, 21, 21);
+    border-radius: 3px;
+    margin-bottom: 10px;
+  }
+  
+  #result {
+    font-weight: bold;
+    color: darkturquoise;
+  }
